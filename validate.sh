@@ -1,0 +1,1 @@
+java -jar /Users/al.pivonka/java-lib/validator_cli.jar ./fsh-resourse-generated/resources/fhir2-formtemplate-FHIR2FormTemplateExample.json  -ig ./output/package.tgz
